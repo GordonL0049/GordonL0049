@@ -17,6 +17,6 @@ I'm Gordon, an 13-year-old App Inventor extensions developer from Hong Kong, Chi
 
 Not a lot!
 
-![image](https://user-images.githubusercontent.com/88015331/161707984-c207c1c9-0404-4c61-a4d1-ca99d2feac3a.png) ![image](https://user-images.githubusercontent.com/88015331/161708010-496e10ea-7ba3-4bd7-8966-4400bb24e88d.png)
+<img src="https://user-images.githubusercontent.com/88015331/161707984-c207c1c9-0404-4c61-a4d1-ca99d2feac3a.png" alt="Most innovate MIT App Inventor app, March 2022, App of the Month competition" width="150"/> <img src="https://user-images.githubusercontent.com/88015331/161708010-496e10ea-7ba3-4bd7-8966-4400bb24e88d.png" alt="Inventor, April 2022, App of the Month competition" width="150"/>
 
 That's all you need to know me!
