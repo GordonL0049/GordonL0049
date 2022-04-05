@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I'm Gordon, a developer, App Inventor and student from Hong Kong, China.
+I'm Gordon, an 13-year-old App Inventor extensions developer from Hong Kong, China.
 
 **:microphone: I can speak:** Chinese, English, German
 
@@ -12,5 +12,11 @@ I'm Gordon, a developer, App Inventor and student from Hong Kong, China.
 
 
 [![Gordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GordonL0049)](https://github.com/anuraghazra/github-readme-stats)
+
+**:trophy: Achievements**
+
+Not a lot!
+
+![image](https://user-images.githubusercontent.com/88015331/161707984-c207c1c9-0404-4c61-a4d1-ca99d2feac3a.png) ![image](https://user-images.githubusercontent.com/88015331/161708010-496e10ea-7ba3-4bd7-8966-4400bb24e88d.png)
 
 That's all you need to know me!
