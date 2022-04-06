@@ -21,6 +21,7 @@ Not a lot!
 
 **👣 Connect with me:**
 
-<a href="https://community.appinventor.mit.edu/u/Gordon_Lu/summary" target="blank"><img align="center" src="https://community.appinventor.mit.edu/uploads/default/original/1X/69d98bd983c7c56415dd3f05dea67a20ac6d355c.png" alt="hritikr" width = "150" height = "40"/></a>
+<a href="https://community.appinventor.mit.edu/u/Gordon_Lu/summary" target="blank"><img align="center" src="https://community.appinventor.mit.edu/uploads/default/original/1X/69d98bd983c7c56415dd3f05dea67a20ac6d355c.png" alt="MIT App Inventor community" width = "150" height = "40"/></a>
+<a href="https://sites.google.com/view/appinventor-aicode" target="blank"><img align="center" src="https://lh5.googleusercontent.com/CCzpwhsg74mDDiExlAPYUBVixZAXs8mkiqW4DQ2ngOLi-ORFfwrgUvpZbOeeuEqlwSGq3oZMV1YHDcseA3-mWco=w16383" alt="AICODE" width = "210" height = "40"/></a>
 
 That's all you need to know me!
