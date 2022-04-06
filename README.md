@@ -19,4 +19,8 @@ Not a lot!
 
 <img src="https://user-images.githubusercontent.com/88015331/161707984-c207c1c9-0404-4c61-a4d1-ca99d2feac3a.png" alt="Most innovate MIT App Inventor app, March 2022, App of the Month competition" width="150"/> <img src="https://user-images.githubusercontent.com/88015331/161708010-496e10ea-7ba3-4bd7-8966-4400bb24e88d.png" alt="Inventor, April 2022, App of the Month competition" width="150"/>
 
+**👣 Connect with me:**
+
+<a href="https://community.appinventor.mit.edu/u/Gordon_Lu/summary" target="blank"><img align="center" src="https://community.appinventor.mit.edu/uploads/default/original/1X/69d98bd983c7c56415dd3f05dea67a20ac6d355c.png" alt="hritikr" width = "150" height = "40"/></a>
+
 That's all you need to know me!
