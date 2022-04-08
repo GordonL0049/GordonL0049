@@ -8,7 +8,7 @@ I'm Gordon, an 13-year-old App Inventor extensions developer from Hong Kong, Chi
 
 **:computer: Coding languages I know/learning:**
 
-![image](https://user-images.githubusercontent.com/88015331/161546147-425043ad-94b5-4005-9fca-45c4546d727f.png) ![image](https://user-images.githubusercontent.com/88015331/161546107-f2423f36-4acd-4eb3-b69f-a576a87b7fdd.png) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![image](https://user-images.githubusercontent.com/88015331/161706784-cca92298-e432-45fe-a4d6-cdac7114c571.png)
+![image](https://user-images.githubusercontent.com/88015331/161546147-425043ad-94b5-4005-9fca-45c4546d727f.png) ![image](https://user-images.githubusercontent.com/88015331/161546107-f2423f36-4acd-4eb3-b69f-a576a87b7fdd.png) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![image](https://user-images.githubusercontent.com/88015331/162411839-e4f9808e-d68f-403c-8d59-a5497487c17b.png) ![image](https://user-images.githubusercontent.com/88015331/161706784-cca92298-e432-45fe-a4d6-cdac7114c571.png)
 
 
 [![Gordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GordonL0049)](https://github.com/anuraghazra/github-readme-stats)
